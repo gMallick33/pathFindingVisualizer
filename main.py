@@ -3,7 +3,7 @@ import sys
 import pygame
 from function_utils import *
 from grid_constants import *
-from dijkstra_algo import *
+from algorithms import *
 
 
 def main(win, width):
